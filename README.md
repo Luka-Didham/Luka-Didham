@@ -1,10 +1,12 @@
 ## Hello, I'm Luka
 
-### 🎓 Currently studying Computer Science and Finance at University of Otago
+#### 🎓 Currently studying Computer Science and Finance at University of Otago
 
-### 💻 Researching live streamed VR for applications in New Zealand Tourism 
+#### 💻 Researching live streamed VR for applications in New Zealand Tourism 
 
-### 📱 I have a huge interest in android mobile app and game development, specifically using game engines such as Unity
+#### 📱 I have a huge interest in android mobile app and game development, specifically using game engines such as Unity
+
+![](https://github-readme-stats.vercel.app/api?username=Luka-Didham&count_private=true&show_icons=true&theme=github_dark&hide=contribs)
 <!--
 **Luka-Didham/Luka-Didham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
